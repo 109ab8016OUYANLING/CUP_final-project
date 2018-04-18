@@ -1,0 +1,169 @@
+{C:/final_project/sign extend.v} {1 {vlog -work work -vopt {C:/final_project/sign extend.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/final_project/control_single.v {1 {vlog -work work -vopt {C:\final_project\control_single.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} C:/final_project/FULL_ADDER.v {1 {vlog -work work -vopt C:/final_project/FULL_ADDER.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FULL_ADDER
+
+Top level modules:
+	FULL_ADDER
+
+} {} {}} C:/final_project/SLL.v {1 {vlog -work work -vopt C:/final_project/SLL.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SLL
+
+Top level modules:
+	SLL
+
+} {} {}} C:/final_project/alu_ctl.v {1 {vlog -work work -vopt C:/final_project/alu_ctl.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} {C:/final_project/unsign extend.v} {1 {vlog -work work -vopt {C:/final_project/unsign extend.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module unsign_extend
+
+Top level modules:
+	unsign_extend
+
+} {} {}} C:/final_project/mux2.v {1 {vlog -work work -vopt C:/final_project/mux2.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/final_project/ALU_TOTAL.v {1 {vlog -work work -vopt C:/final_project/ALU_TOTAL.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU_TOTAL
+
+Top level modules:
+	ALU_TOTAL
+
+} {} {}} C:/final_project/reg_file.v {1 {vlog -work work -vopt C:/final_project/reg_file.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/final_project/SHIFT.v {1 {vlog -work work -vopt C:/final_project/SHIFT.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SHIFT
+
+Top level modules:
+	SHIFT
+
+} {} {}} C:/final_project/SRL.v {1 {vlog -work work -vopt C:/final_project/SRL.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SRL
+
+Top level modules:
+	SRL
+
+} {} {}} C:/final_project/memory.v {1 {vlog -work work -vopt C:/final_project/memory.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/final_project/mips_single.v {1 {vlog -work work -vopt C:/final_project/mips_single.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} C:/final_project/reg_ex.v {1 {vlog -work work -vopt C:/final_project/reg_ex.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg_ex
+
+Top level modules:
+	reg_ex
+
+} {} {}} C:/final_project/HiLoReg.v {1 {vlog -work work -vopt C:/final_project/HiLoReg.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module HiLoReg
+
+Top level modules:
+	HiLoReg
+
+} {} {}} C:/final_project/ALU.v {1 {vlog -work work -vopt C:/final_project/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/final_project/reg_id.v {1 {vlog -work work -vopt C:/final_project/reg_id.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg_id
+
+Top level modules:
+	reg_id
+
+} {} {}} C:/final_project/reg32.v {1 {vlog -work work -vopt C:/final_project/reg32.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/final_project/reg_mem.v {1 {vlog -work work -vopt C:/final_project/reg_mem.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg_mem
+
+Top level modules:
+	reg_mem
+
+} {} {}} C:/final_project/reg_if.v {1 {vlog -work work -vopt C:/final_project/reg_if.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module reg_if
+
+Top level modules:
+	reg_if
+
+} {} {}} C:/final_project/MULTIPLE.v {1 {vlog -work work -vopt C:/final_project/MULTIPLE.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module MULTIPLE
+
+Top level modules:
+	MULTIPLE
+
+} {} {}} C:/final_project/ALU_32.v {1 {vlog -work work -vopt C:/final_project/ALU_32.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU_32
+
+Top level modules:
+	ALU_32
+
+} {} {}} C:/final_project/add32.v {1 {vlog -work work -vopt C:/final_project/add32.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/final_project/tb_SingleCycle.v {1 {vlog -work work -vopt C:/final_project/tb_SingleCycle.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}}
